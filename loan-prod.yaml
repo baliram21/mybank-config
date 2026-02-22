@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0- Loan : Prod"
+
+loan:
+  message: "Welcome to MyBank Loan Prod Microservice here we deal with Loan related stuffs"
+  contactDetails:
+    name: "Nayan Kumar - 'prod'"
+    email: "bk.prod@mybank.com"
+  onCallSupport:
+    - "111111"
+    - "222222"

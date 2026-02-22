@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0- Cards : Stg"
+
+cards:
+  message: "Welcome to MyBank Card Stg Microservice here we deal with Cards related stuffs"
+  contactDetails:
+    name: "Nayan Kumar - 'stg'"
+    email: "bk.stg@mybank.com"
+  onCallSupport:
+    - "111111"
+    - "222222"

@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0- Accounts - Prod"
+
+accounts:
+  message: "Welcome to PROD MyBank Account Microservice here we deal with accounts related stuffs"
+  contactDetails:
+    name: "Nayan Kumar - 'prod'"
+    email: "bk@mybank.com"
+  onCallSupport:
+    - "111111"
+    - "222222"

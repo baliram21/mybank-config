@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0- Loan : Dev"
+
+loan:
+  message: "Welcome to MyBank Loan Dev Microservice here we deal with Loan related stuffs"
+  contactDetails:
+    name: "Nayan Kumar - 'dev'"
+    email: "bk.dev@mybank.com"
+  onCallSupport:
+    - "111111"
+    - "222222"

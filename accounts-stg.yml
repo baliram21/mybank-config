@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "stg"
+
+build:
+  version: "1.0- Accounts - Stg"
+
+accounts:
+  message: "Welcome to STG MyBank Account Microservice here we deal with accounts related stuffs"
+  contactDetails:
+    name: "Nayan Kumar - 'stg'"
+    email: "bk@mybank.com"
+  onCallSupport:
+    - "111111"
+    - "222222"
