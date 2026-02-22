@@ -1,6 +1,6 @@
 
 build:
-  version: "1.0- Cards : Prod"
+  version: "2.0- Cards : Production"
 
 cards:
   message: "Welcome to MyBank Card Prod Microservice here we deal with Cards related stuffs"
