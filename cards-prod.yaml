@@ -1,11 +1,11 @@
 
 build:
-  version: "2.0- Cards : Prodn"
+  version: "2.0- Cards : Prod"
 
 cards:
   message: "Welcome to MyBank Card Prod Microservice here we deal with Cards related stuffs"
   contactDetails:
-    name: "Nayan Kumar - 'prod'"
+    name: "Nayan Kumar - 'Production Owner'"
     email: "bk.prod@mybank.com"
   onCallSupport:
     - "111111"
