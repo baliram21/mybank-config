@@ -3,7 +3,7 @@ build:
   version: "1.0- Accounts - Dev"
 
 accounts:
-  message: "Welcome to DEV MyBank Account Microservice here we deal with accounts related stuffs"
+  message: "Welcome to DEVlopment MyBank Account Microservice here we deal with accounts related stuffs"
   contactDetails:
     name: "Nayan Kumar - 'dev'"
     email: "bk@mybank.com"
