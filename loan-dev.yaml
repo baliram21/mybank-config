@@ -7,6 +7,7 @@ loan:
   contactDetails:
     name: "Nayan Kumar - 'dev owner'"
     email: "bk_loan.dev@mybank.com"
+    note: "This is Account Dev Profile"
   onCallSupport:
     - "111111"
     - "999999"
