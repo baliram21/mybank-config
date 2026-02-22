@@ -3,10 +3,11 @@ build:
   version: "1.0- Accounts - Dev"
 
 accounts:
-  message: "Welcome to DEV MyBank Account Microservice here we deal with accounts related stuffs : bus refresh"
+  message: "Welcome to DEV MyBank Account Microservice here we deal with accounts related stuffs"
   contactDetails:
     name: "Nayan Kumar - 'Dev Owner'"
-    email: "bk@mybank.com"
+    email: "bk_account.dev@mybank.com"
+    note: "This is Account Dev Profile"
   onCallSupport:
-    - "111111"
-    - "222222"
+    - "989898989"
+    - "707070707"
