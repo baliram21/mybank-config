@@ -3,10 +3,10 @@ build:
   version: "1.2- Loan : Development"
 
 loan:
-  message: "Welcome to MyBank Loan Development Microservice here we deal with Loan related stuffs: - Bus Refresh"
+  message: "Welcome to MyBank Loan Development Microservice here we deal with Loan related stuffs"
   contactDetails:
     name: "Nayan Kumar - 'dev owner'"
-    email: "bk.dev@mybank.com --bus"
+    email: "bk_loan.dev@mybank.com"
   onCallSupport:
     - "111111"
-    - "555555"
+    - "999999"
