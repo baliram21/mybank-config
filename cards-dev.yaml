@@ -3,7 +3,7 @@ build:
   version: "1.0- Cards : Dev"
 
 cards:
-  message: "Welcome to MyBank Card Dev Microservice here we deal with Cards related stuffs"
+  message: "Welcome to MyBank Card Dev Microservice here we deal with Cards related stuffs: - Bus Refresh checking"
   contactDetails:
     name: "Nayan Kumar - 'dev'"
     email: "bk.dev@mybank.com"
