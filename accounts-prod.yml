@@ -3,11 +3,12 @@ build:
   version: "1.0- Accounts - Prod"
 
 accounts:
-  message: "Welcome to PROD MyBank Account Microservice here we deal with accounts PRODUCTION related stuffs"
+  message: "Welcome to PRODUCTION MyBank Account Microservice here we deal with accounts PRODUCTION related stuffs"
   contactDetails:
-    name: "Nayan Kumar - 'prod'"
+    name: "Nayan Kumar - 'PRODUCTION-Owner'"
     email: "bk@mybank.com"
   onCallSupport:
     - "111111"
     - "222222"
+
 
